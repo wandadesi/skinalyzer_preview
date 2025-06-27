@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Carousel: React.FC = () => {
-  const images = ['/img1.png', '/img2.png', '/img3.png'];
+  const images = ['/img1.jpg', '/img2.jpg', '/img3.jpg'];
   const labels = ['Acne', 'Dark Spot', 'Pimple'];
   const descriptions = [
     `Acne is a skin condition that happens when your pores get clogged with excess oil, dead skin cells, and bacteria. It’s not just about one or two pimples acne can include blackheads, whiteheads, red bumps, and even deep, painful cysts. If you experience frequent breakouts, especially in clusters, chances are you’re dealing with acne. It’s common, treatable, and nothing to be ashamed of!`,
