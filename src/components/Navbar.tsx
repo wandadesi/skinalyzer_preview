@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from "react";
 
 const Navbar: React.FC = () => {
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [, setIsDropdownOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement | null>(null);
 
   // Tutup dropdown saat klik di luar
