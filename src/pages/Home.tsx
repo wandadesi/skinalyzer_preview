@@ -15,7 +15,7 @@ const Home: React.FC = () => {
         <div
           className="absolute inset-0 bg-cover bg-center z-0"
           style={{
-            backgroundImage: `url("/back.png")`,
+            backgroundImage: `url("/back.jpg")`,
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
