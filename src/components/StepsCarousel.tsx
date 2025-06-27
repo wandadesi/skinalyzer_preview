@@ -7,25 +7,25 @@ const steps = [
     title: 'Step 1: Upload Your Photo',
     description:
       'Upload a clear image of your face using your camera or gallery. Supported formats: JPG, JPEG, PNG.',
-    image: '/step1.png',
+    image: '/step1.jpg',
   },
   {
     title: 'Step 2: AI Skin Analysis',
     description:
       'Our AI will scan your face and analyze your skin condition, identifying issues like acne, uneven tone, and pores.',
-    image: '/step2.png',
+    image: '/step2.jpg',
   },
   {
     title: 'Step 3: View Analysis Results',
     description:
       'See which areas of your face have concerns with visual markers and easy-to-understand explanations.',
-    image: '/step4.png',
+    image: '/step4.jpg',
   },
   {
     title: 'Step 4: Product Recommendations',
     description:
       'Get personalized skincare product suggestions tailored to your skin condition and needs.',
-    image: '/step5.png',
+    image: '/step5.jpg',
   },
 ];
 
